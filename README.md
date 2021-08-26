@@ -3,6 +3,8 @@ ITVEDANT PROJECT OF PYTHON MODULE
 
 This Project is Bascially made for the purpose of taking the BUSINESS DECISSION.
 
+![Image of Python Project](Project/python.jpg)
+
 This Project Covers all the Topics of Python for Data Science
 1. Introduction to Python
 2. Variable and Data Types
@@ -18,3 +20,8 @@ This Project Covers all the Topics of Python for Data Science
 12. Pandas
 13. Visualization
 
+![Image of Google Colab](https://colab.research.google.com/img/colab_favicon_256px.png)
+
+   [Google Colab](https://colab.research.google.com/drive/1F5npok6i_Ht3QO-MuuVjRjAkD52GzCAh?usp=sharing)
+   
+   [Google Slides](http://github.com)

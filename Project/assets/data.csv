@@ -1,0 +1,101 @@
+name,age,location,category,subcategory,year
+Jai,25,GUJARAT,Fitness,Gym + cardio,2021
+Hriday,20,GUJARAT,Ecommerce,Clothes,2021
+Atharva,18,MAHARASHTRA,Parking,4 wheelers,2021
+Rohit,20,KERALA,Restaurant,Bar + restaurant,2021
+Aayushi,21,UTTAR PRADESH,Designation,Android development,2021
+Ashna,19,JHARKHAND,Grocery,Spices,2021
+Lunika,23,MAHARASHTRA,Celebration,Villa,2021
+Jai,25,GUJARAT,Fitness,Gym + cardio,2021
+Hriday,20,GUJARAT,Ecommerce,Clothes,2021
+Atharva,18,MAHARASHTRA,Parking,4 wheelers,2021
+Rohit,20,KERALA,Restaurant,Bar + restaurant,2021
+Aayushi,21,UTTAR PRADESH,Designation,Android development,2021
+Ashna,19,JHARKHAND,Grocery,Spices,2021
+Lunika,23,MAHARASHTRA,Celebration,Villa,2021
+Jai,20,GOA,Designation,Artificial intelligence,2021
+Aayushi,20,CHATTISGARH,Ecommerce,Clothes,2021
+Rohit,30,TAMIL NADU,Celebration,Villa,2021
+Atharva,30,ASSAM,Restaurant,Bar + restaurant,2021
+Ashna,28,ANDRA PRADESH,Celebration,Pub,2021
+Hriday,27,ARUNACHAL PRADESH,Courier,State,2021
+Lunika,29,ARUNACHAL PRADESH,Fitness,Cardio,2021
+Hriday,27,ARUNACHAL PRADESH,Courier,City,2021
+Ashna,28,ASSAM,Grocery,Dry fruits,2021
+Atharva,24,MANIPUR,Medicine,Below 18,2021
+Aayushi,26,BIHAR,Resources,Watchman,2021
+Jai,32,ASSAM,Consultancy,Educational,2021
+Aayushi,30,HARAYANA,Restaurant,Non veg,2021
+Anita,20,WEST BANGAL,Celebration,Pub,2021
+Rupali,25,GUJARAT,Restaurant,Veg,2021
+Prerna,24,GUJARAT,Ecommerce,Clothes,2021
+Ayushi,28,ASSAM,Medicine,18+,2021
+Jay,20,GOA,Designation,Robotics,2021
+Prerna,30,UTTAR PRADESH,Resources,Laundary,2021
+Rupali,28,UTTARKHAND,Designation,Accountant,2021
+Anita,35,UTTARKHAND,Parking,3 wheelers,2021
+Jay,25,MAHARASHTRA,Parking,4 wheelers,2021
+Ayushi,34,UTTAR PRADESH,Grocery,Dry fruits,2021
+Abhsihek,20,UTTAR PRADESH,Designation,Web development,2021
+Yash,25,ASSAM,Resources,Garage,2021
+Dhruv,20,GUJARART,Designation,Artificial intelligence,2021
+Neeraj,26,GUJARART,Designation,Data science,2021
+Abhishek,25,MAHARASHTRA,Ecommerce,Shoes,2021
+Yash,24,ARUNACHAL PRADESH,Consultancy,Career,2021
+Neeraj,30,ASSAM,Resources,Watchman,2021
+Dhruv,25,GUJARAT,Designation,Data science,2021
+Atharva,23,MAHARASHTRA,Celebration,House warming,2021
+Ashna,29,UTTAR PRADESH,Restaurant,Non veg,2021
+Anita,30,MAHARASHTRA,Grocery,Dairy products,2021
+Prerna,35,GUJARART,Grocery,Fruits,2021
+Rupali,34,MAHARASHTRA,Medicine,18 -  45,2021
+Jay,36,ASSAM,Resources,Watchman,2021
+Ayushi,33,GUJARAT,Consultancy,Educational,2021
+Yash,39,UTTAR PRADESH,Courier,India,2021
+Abhishek,37,HARAYANA,Restaurant,Veg,2021
+Neeraj,40,MAHARASHTRA,Consultancy,Career,2021
+Rohit,40,KARNATAKA,Consultancy,Business,2021
+Dhruv,35,TAMIL NADU,Fitness,Gym + cardio,2021
+Viral,50,GUJARAT,Medicine,45 - 60,2021
+Julie,45,GUJARAT,Grocery,Fruits,2021
+Manoj,47,UTTAR PRADESH,Restaurant,Bar + restaurant,2021
+Virat,48,MAHARASHTRA,Fitness,Cross-fit,2021
+Viral,47,ASSAM,Consultancy,Business,2021
+Julie,46,UTTAR PRADESH,Celebration,Party hall,2021
+Rupali,47,ASSAM,Courier,State,2021
+Mome,42,WEST BANGAL,Designation,Machine learning,2021
+Hriday,43,UTTARKHAND,Restaurant,Non veg,2021
+Lunika,44,UTTAR PRADESH,Ecommerce,Mobile phones,2021
+Viraj,25,GUJARAT,Designation,Artificial intelligence,2021
+Mahesh,32,MAHARASHTRA,Restaurant,Non veg,2021
+Shiv,44,ARUNACHAL PRADESH,Fitness,Gym + cardio,2021
+Shiva,40,TAMIL NADU,Consultancy,Career,2021
+Mahesh,30,UTTAR PRADESH,Medicine,18+,2021
+Jai,50,GOA,Celebration,Villa,2021
+Anita,45,CHATTISGRAH,Designation,Accountant,2021
+Prerna,34,ARUNACHAL PRADESH,Resources,Watchman,2021
+Mome,20,GUJARAT,Celebration,Pub,2021
+Aayushi,45,UTTAR PRADESH,Fitness,Cardio,2021
+Aayushi,35,UTTAR PRADESH,Designation,Android development,2021
+Atharva,45,GOA,Parking,4 wheelers,2021
+Aayushi,28,CHATTISGARH,Ecommerce,Clothes,2021
+Atharva,38,ASSAM,Restaurant,Bar + restaurant,2021
+Lunika,32,ARUNACHAL PRADESH,Fitness,Cardio,2021
+Ashna,34,TAMIL NADU,Grocery,Dry fruits,2021
+Ayushi,38,ASSAM,Medicine,18+,2021
+Jay,28,MAHARASHTRA,Parking,4 wheelers,2021
+Yash,24,ARUNACHAL PRADESH,Consultancy,Career,2021
+Rupali,23,MAHARASHTRA,Medicine,18 -  45,2021
+Abhishek,36,HARAYANA,Restaurant,Veg,2021
+Dhruv,26,TAMIL NADU,Fitness,Gym + cardio,2021
+Virat,24,MAHARASHTRA,Fitness,Cross-fit,2021
+Viraj,35,GUJARAT,Designation,Artificial intelligence,2021
+Mahesh,34,UTTAR PRADESH,Medicine,18+,2021
+Mome,31,GUJARAT,Celebration,Pub,2021
+Virat,30,MAHARASHTRA,Fitness,Cross-fit,2021
+Viraj,40,GUJARAT,Designation,Artificial intelligence,2021
+Mahesh,50,UTTAR PRADESH,Medicine,18+,2021
+Jai,34,GUJARAT,Celebration,Pub,2021
+Mahesh,21,MAHARASHTRA,Medicine,18+,2021
+Lunika,23,GUJARAT,Celebration,Pub,2021
+Rohit,27,GUJARAT,Celebration,Pub,2021

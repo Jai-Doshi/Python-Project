@@ -1,0 +1,84 @@
+CATEGORY AND SUBCATEGORY
+=======================================
+|  CATEGORY NO.  | CATEGORY NAME |
+=======================================
+|       1        |   Grocery   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Dairy products   
+ 	 	 |        2         |   Vegetables   
+ 	 	 |        3         |   Fruits   
+ 	 	 |        4         |   Spices   
+ 	 	 |        5         |   Beverages   
+ 	 	 |        6         |   Dry fruits   
+|       2        |   Fitness   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Gym   
+ 	 	 |        2         |   Cardio   
+ 	 	 |        3         |   Gym + cardio   
+ 	 	 |        4         |   Steam bath   
+ 	 	 |        5         |   Cross-fit   
+|       3        |   Ecommerce   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Clothes   
+ 	 	 |        2         |   Shoes   
+ 	 	 |        3         |   Watches   
+ 	 	 |        4         |   Television   
+ 	 	 |        5         |   Mobile phones   
+ 	 	 |        6         |   Washing machine   
+ 	 	 |        7         |   Air conditioner   
+ 	 	 |        8         |   Refrigerator   
+|       4        |   Parking   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   2 wheelers   
+ 	 	 |        2         |   3 wheelers   
+ 	 	 |        3         |   4 wheelers   
+ 	 	 |        4         |   6 wheelers   
+ 	 	 |        5         |   8 wheelers   
+ 	 	 |        6         |   12 wheelers   
+|       5        |   Restaurant   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Veg   
+ 	 	 |        2         |   Non veg   
+ 	 	 |        3         |   Bar + restaurant   
+|       6        |   Designation   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Web development   
+ 	 	 |        2         |   Android development   
+ 	 	 |        3         |   Artificial intelligence   
+ 	 	 |        4         |   Data science   
+ 	 	 |        5         |   Machine learning   
+ 	 	 |        6         |   Robotics   
+ 	 	 |        7         |   Accountant   
+ 	 	 |        8         |   Arts and design   
+ 	 	 |        9         |   Editing   
+ 	 	 |        10        |   Interior designor   
+|       7        |   Consultancy   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Educational   
+ 	 	 |        2         |   Loan   
+ 	 	 |        3         |   Career   
+ 	 	 |        4         |   Business   
+|       8        |   Medicine   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Below 18   
+ 	 	 |        2         |   18+   
+ 	 	 |        3         |   18 -  45   
+ 	 	 |        4         |   45 - 60   
+ 	 	 |        5         |   60+   
+|       9        |   Courier   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   City   
+ 	 	 |        2         |   State   
+ 	 	 |        3         |   India   
+ 	 	 |        4         |   Overseas   
+|       10       |   Resources   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Watchman   
+ 	 	 |        2         |   Garage   
+ 	 	 |        3         |   Laundary   
+|       11       |   Celebration   
+ 	 	 | SUB CATEGORY NO. | SUB CATEGORY NAME |
+ 	 	 |        1         |   Villa   
+ 	 	 |        2         |   House warming   
+ 	 	 |        3         |   Party hall   
+ 	 	 |        4         |   Pub   

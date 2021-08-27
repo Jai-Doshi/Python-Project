@@ -24,4 +24,4 @@ This Project Covers all the Topics of Python for Data Science
 
    [Google Colab](https://colab.research.google.com/drive/1F5npok6i_Ht3QO-MuuVjRjAkD52GzCAh?usp=sharing)
    
-   [Google Slides](http://github.com)
+   [Google Slides](https://docs.google.com/presentation/d/1c1cpKbgz6l0lNUBVx4cauHBpl7IBYs-EP-XDjDKg1CI/edit?usp=sharing)

@@ -3,7 +3,7 @@ ITVEDANT PROJECT OF PYTHON MODULE
 
 This Project is Bascially made for the purpose of taking the BUSINESS DECISSION.
 
-![Image of Python Project](Project/assets/python.jpg)
+![Image of Python Project](python/assets/python.jpg)
 
 This Project Covers all the Topics of Python for Data Science
 1. Introduction to Python
